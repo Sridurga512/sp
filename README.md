@@ -1,1 +1,3 @@
-Ensemble technique project 
+Ensemble Technique Project 
+FMT
+Supervised Learning Project 
